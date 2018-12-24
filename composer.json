@@ -11,8 +11,5 @@
     ],
     "autoload": {
         "psr-4": {"YAN\\": "src/"}
-    },
-    "require": {
-        "php":">=5.4.0"
     }
 }
