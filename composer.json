@@ -2,6 +2,7 @@
     "name":"code-cn/help-thinkphp3.2.3",
     "description": "用于 thinkPHP 3.2.3 的辅助函数",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name":"闫建军",
@@ -9,7 +10,10 @@
             "homepage": "https://code-cn.top"
         }
     ],
+    "require": {
+        "php": ">=5.5"
+    },
     "autoload": {
-        "psr-4": {"help-thinkPHP3.2.3\\": "src/"}
+        "psr-4": {"YAN\\": "src/"}
     }
 }
