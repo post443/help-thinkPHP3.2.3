@@ -1,0 +1,17 @@
+{
+    "name":"code-cn/help-thinkPHP3.2.3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":"闫建军",
+            "email": "post443@163.com",
+            "homepage": "https://code-cn.top"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Monolog\\": "src/"}
+    },
+    "require": {
+        "php":">=5.6.0"
+    }
+}
