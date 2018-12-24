@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"Monolog\\": "src/"}
+        "psr-4": {"YAN\\": "src/"}
     },
     "require": {
         "php":">=5.6.0"
