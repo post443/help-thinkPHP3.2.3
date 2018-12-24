@@ -10,6 +10,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"YAN\\": "src/"}
+        "psr-4": {"help-thinkPHP3.2.3\\": "src/"}
     }
 }
